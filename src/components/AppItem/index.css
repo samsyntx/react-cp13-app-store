@@ -1,0 +1,11 @@
+.each-app-container {
+  background-color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+.application-logo {
+  width: 100px;
+  height: 100px;
+}

@@ -1,0 +1,11 @@
+.each-tab-button {
+  border: none;
+  padding: 10px;
+  color: #7b8794;
+  border-bottom: 1px solid #b9bcbe;
+  cursor: pointer;
+}
+.style-for-active-tab {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+}
