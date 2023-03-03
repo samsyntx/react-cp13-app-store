@@ -7,7 +7,7 @@
 .complete-bg-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
   padding: 25px 20px 50px 20px;
